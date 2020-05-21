@@ -1,0 +1,1 @@
+exports.myText  = "Hello My Module"
